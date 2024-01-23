@@ -12,9 +12,9 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
+  <img align="center" alt="Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">
   <img align="center" alt="Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
-  <img align="center" alt="Materialize" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialize/materialize-original.svg">
+  <img align="center" alt="Materialize" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F94600%2Fmaterializecss&psig=AOvVaw0LyWWs8w_QfG3j1EtNbjGr&ust=1706059105164000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIiJ5cqr8oMDFQAAAAAdAAAAABAD">
   <img align="center" alt="JQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
   <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg">
   <img align="center" alt="Stripe" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stripe/stripe-original.svg">

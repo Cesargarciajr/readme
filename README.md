@@ -16,16 +16,16 @@
   <img align="center" alt="Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
   <img align="center" alt="Materialize" height="30" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/materialize-css-logo-icon.png">
   <img align="center" alt="JQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
-  <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg">
-  <img align="center" alt="Stripe" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stripe/stripe-original.svg">
+  <img align="center" alt="AWS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="Stripe" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Stripe_Logo%2C_revised_2016.svg">
   <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg">
-  <img align="center" alt="CrossFilter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/crossfilter/crossfilter-original.svg">
-  <img align="center" alt="TravisCI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/travisci/travisci-original.svg">
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="ElephantSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elephantsql/elephantsql-original.svg">
+  <img align="center" alt="SQL" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png?20210130181641">
+  <img align="center" alt="D3" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg">
+  <img align="center" alt="TravisCI" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/travis-ci-monochrome.svg">
+  <img align="center" alt="MongoDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="Heroku" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg">
-  <img align="center" alt="GoogleDevelopers" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googledevelopers/googledevelopers-original.svg">
+  <img align="center" alt="GoogleDevelopers" height="30" width="40" src="https://www.svgrepo.com/show/353810/google-developers.svg">
 </div>
  
 <br>

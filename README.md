@@ -28,7 +28,8 @@
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="Heroku" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg">
   <img align="center" alt="GoogleDevelopers" height="30" width="40" src="https://www.svgrepo.com/show/353810/google-developers.svg">
-</div>
+  <img align="center" alt="RestAPI" height="30" width="40" src="https://media.licdn.com/dms/image/D4D12AQEeNNHq05k7MA/article-cover_image-shrink_720_1280/0/1687786979245?e=1711584000&v=beta&t=NcKZaW-Ch30P7mffaQq3pSBRiwNtmnbHFLPVXmBVVF0">
+ </div>
  
 <br>
  

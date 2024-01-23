@@ -17,6 +17,15 @@
   <img align="center" alt="Materialize" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialize/materialize-original.svg">
   <img align="center" alt="JQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
   <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg">
+  <img align="center" alt="Stripe" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stripe/stripe-original.svg">
+  <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg">
+  <img align="center" alt="CrossFilter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/crossfilter/crossfilter-original.svg">
+  <img align="center" alt="TravisCI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/travisci/travisci-original.svg">
+  <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="ElephantSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elephantsql/elephantsql-original.svg">
+  <img align="center" alt="Heroku" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg">
+  <img align="center" alt="GoogleDevelopers" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googledevelopers/googledevelopers-original.svg">
 </div>
  
 <br>
